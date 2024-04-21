@@ -1,0 +1,12 @@
+
+Galadriel:
+1. NFT generation(?).
+2. Bidding signature verification.
+
+Worldcoin for:
+1. Project submission (all involved persons)
+2. Avoid bots on PRE-IP NFTs liquidation bids.
+3. Avoid project owners to bid in their liquidations.
+
+Talk.Online for:
+1. Game published and posted using iframe
